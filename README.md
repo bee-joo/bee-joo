@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello!👋
+
+#### List of technologies I have worked with
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,gradle,maven,hibernate,cs,dotnet,js,nodejs,express,mongodb,py,fastapi,bots,redis,sqlite,postgres,mysql,wasm,html,css,md,latex,visualstudio,vscode,idea,git,github,gitlab,heroku,docker,nginx,linux,bash,powershell,stackoverflow)](https://skillicons.dev)
+
+#### Really interested to know in future
+[![Wannabe](https://skillicons.dev/icons?i=scala,clojure,haskell,cloudflare,ocaml,githubactions,go,ktor,kubernetes,angular)](https://skillicons.dev)
 
 <!--
 **bee-joo/bee-joo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
